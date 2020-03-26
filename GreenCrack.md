@@ -1,0 +1,31 @@
+## 国内软件站
+
+* [落尘之木](https://www.luochenzhimu.com/)
+* [精品绿色便携软件](https://www.portablesoft.org/)
+* [NOCMD](https://www.nocmd.com/)
+* [殁漂遥](https://www.laomoit.com/) 
+* [软件缘](https://www.appcgn.com/)
+* [心海e站.烈火](https://hrtsea.com/)
+* [V5PC](http://www.v5pc.com/)
+* [大眼仔旭](http://dayanzai.me/)
+* [胡萝卜周](http://www.carrotchou.blog/)
+* [8号站](http://www.ssdtop.com/)
+* [软件库](http://www.38hack.com/)
+* [爱软客](http://www.bokeboke.net/)
+* [423Down](http://www.423down.com/)
+* [软件下载港](http://www.xiazaigang.com/)
+* [星空不寂寞](http://www.xingkbjm.com/)
+* [爱绿软](https://ilvruan.com/)
+* [麦氪派](https://www.waitsun.com/)
+
+## 国外软件站
+
+* [PortableApps](https://portableapps.com/)
+* [FC Portables](https://www.fcportables.com/)
+* [Portapps.io](https://portapps.io/apps/)
+* [WinpenPack](http://www.winpenpack.com/en/index.php)
+* [Liberkey](https://www.liberkey.com/en.html)
+* [Mobilism](https://forum.mobilism.org/)
+* [Repack.me](https://repack.me/)
+* [NsaneForums](https://www.nsaneforums.com/)
+* [Downloadly](https://downloadly.ir/)
