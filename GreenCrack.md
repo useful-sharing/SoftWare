@@ -1,5 +1,6 @@
 ## 国内软件站
 
+* [易破解](https://www.ypojie.com/)
 * [落尘之木](https://www.luochenzhimu.com/)
 * [精品绿色便携软件](https://www.portablesoft.org/)
 * [NOCMD](https://www.nocmd.com/)
