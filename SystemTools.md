@@ -1,6 +1,7 @@
 ## 系统清理
 
 * [Dism++](http://www.chuyu.me/) 全球第一款基于 CBS 的 Dism GUI 实现，也许是最强的实用工具
+* [Geek Uninstaller](https://geekuninstaller.com/) 最好用的 Windows 软件卸载工具，支持卸载 UWP 应用
 
 ## 文件管理
 
@@ -10,10 +11,12 @@
 
 ## 终端
 
+* [Windows Terminal](https://github.com/microsoft/terminal) 微软开源终端，灵活自定义配置
 * [MobaXterm](https://mobaxterm.mobatek.net/) 全能终端
 
 ## U 盘启动
 
+* [Ventoy](https://github.com/ventoy/Ventoy) 直接引导启动 ISO 文件 **强烈推荐** （PS：开发者是国人）
 * [Etcher](https://www.balena.io/etcher/) 会写入只读文件系统，类似于 Linux 下的 dd 命令
 * [Rufus](https://rufus.ie/) 开源启动盘制作工具
 
